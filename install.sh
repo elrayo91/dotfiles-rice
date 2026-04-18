@@ -1,0 +1,1 @@
+sudo pacman -S i3-wm i3status i3lock i3blocks picom alacritty feh xorg-server xorg-xinit xorg-xrandr xterm rofi dunst pipewire pipewire-pulse wireplumber pavucontrol git base-devel networkmanager ttf-dejavu noto-fonts noto-fonts-emoji
