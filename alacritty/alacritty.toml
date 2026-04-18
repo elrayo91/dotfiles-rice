@@ -1,0 +1,29 @@
+[window]
+opacity = 0.85
+padding = { x = 10, y = 10 }
+
+# Esto evita que Alacritty se cuelgue si la GPU es virtual
+[env]
+WINIT_UNIX_BACKEND = "x11"
+
+
+[colors.primary]
+background = "#1a1a1a"
+foreground = "#ffffff" # Blanco total para que brille
+
+
+[colors.normal]
+black =   "#1a1a1a"
+red =     "#5e2c2c" # El color óxido
+green =   "#4a5043"
+yellow =  "#8c7b60"
+blue =    "#3e4a5e"
+magenta = "#5e3e4a"
+cyan =    "#5e7a7a"
+white =   "#d6d6d6"
+
+[font]
+normal = { family = "JetBrainsMono Nerd Font", style = "Regular" }
+size = 11
+
+
