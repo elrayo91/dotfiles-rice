@@ -65,7 +65,7 @@ bindsym Mod4+v split v
 # MAXIMIZAR / RESTAURAR (nuevo)
 bindsym Mod4+m fullscreen toggle
 
-bindsym Mod4+f fullscreen toggle
+
 
 bindsym Mod4+s layout stacking
 bindsym Mod4+w layout tabbed
